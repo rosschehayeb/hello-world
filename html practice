@@ -1,0 +1,11 @@
+<!DOCTYPE html> <!-- type of html being used -->
+<html lang="en"> <!-- root element. needs to come first. language necessary -->
+	<head> <!-- page title, character encoding, meta info, style sheets, JS, links to alt versions, any info about the content -->
+		<meta charset="utf-8"> <!-- meta info about the doc, instructions for search spiders, instructions for how mobile devices should handle page, info on socials sharing. -->
+		<title>My Page Title</title>
+		<link rel="canonical" href="https://en.wikipedia.org/wiki/Synthesizer">
+	</head>
+	<body>
+		hi
+	</body>
+</html>
